@@ -1,0 +1,28 @@
+h1{
+  color:red;
+}
+
+.important{
+  color: purple;
+  font-size: 20pt;
+  font-weight: bold;
+}
+
+.tree{
+  width:100px;
+  height:auto;
+}
+
+.text{
+  color: gold;
+  font-size: 30pt;
+}
+.text2{
+  color: blue;
+  font-size: 30pt;
+}
+
+.text3{
+  color: red;
+  font-size: 30pt;
+}
